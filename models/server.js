@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const { json } = require('express/lib/response');
+
 
 /**
  * Clase Server para instanciar un servidor de express
